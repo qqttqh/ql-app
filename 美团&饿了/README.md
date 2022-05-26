@@ -13,4 +13,5 @@
 ql repo http://gitlab.luobook.fun/root/script.git "lb_" "README" "sendNotify" "master"
 ```
 
-- 作者TG频道：https://t.me/Luobook666
+- 原作者TG频道：https://t.me/Luobook666
+- 原作者TG群：https://t.me/Luobook888
